@@ -1,0 +1,52 @@
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Monaco", MonacoCourier, monospace;
+  background-color: #eebcb2;
+  padding: 30px;
+  border: 0px solid #000000;
+  width: fit-content;
+  transition: 0.3s;
+  margin: auto;
+}
+.about {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.image {
+  width: 500px;
+  height: auto;
+}
+.intro {
+  font-size: 30px;
+  font-family: "Monaco", Monaco, monospace;
+}
+.main {
+  background-color: ##3d03ff;
+}
+.content {
+  padding: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-start;
+}
+.button {
+  font-size: 20px;
+  font-family: "Monaco", Monaco, monospace;
+  width: auto;
+  padding: 20px;
+  margin: auto;
+  border: 1px solid #333333;
+  background-color: #eebcb2;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  transition: 0.3s;
+}
